@@ -1,4 +1,9 @@
 # AWS CloudFormation Deployment
+<p align="center">
+  <img src="screenshots/cf_banner.png" alt="AWS CloudFormation Deployment Banner">
+</p>
+
+---
 
 ![AWS](https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge&logo=amazonaws)
 ![EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=for-the-badge&logo=amazonec2)
@@ -115,7 +120,7 @@ The following screenshots document each stage of deploying an Amazon EC2 instanc
 I opened the AWS Management Console and navigated to the **CloudFormation** service to begin creating a new infrastructure stack.
 
 <p align="center">
-    <img src="screenshots/cloudformation.png" alt="AWS CloudFormation Console" width="900">
+    <img src="screenshots/cf.png" alt="AWS CloudFormation Console" width="900">
 </p>
 
 ---
@@ -175,7 +180,7 @@ After the stack completed successfully, I verified that the Amazon EC2 instance 
 The Stack Canvas provides a visual representation of the deployed infrastructure and the relationship between AWS resources.
 
 <p align="center">
-    <img src="screenshots/stack_canvas.png" alt="CloudFormation Stack Canvas" width="900">
+    <img src="screenshots/stack_canva.png" alt="CloudFormation Stack Canvas" width="900">
 </p>
 
 ---
