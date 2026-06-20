@@ -1,0 +1,9 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Launch a simple EC2 instance
+
+Resources:
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      ImageId: ami-0c7217cdde317cfec
